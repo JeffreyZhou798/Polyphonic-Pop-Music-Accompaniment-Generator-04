@@ -15,7 +15,7 @@ license: mit
 
 **👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04)**:https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04
 
-**👉 [Try it on Model Scope Spaces]([https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-01/summary])**:https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-01/summary
+**👉 [Try it on Model Scope Spaces](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-01/summary])**:https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-01/summary
 
 ---
 
