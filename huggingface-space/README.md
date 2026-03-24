@@ -206,7 +206,7 @@ Output (MIDI + MusicXML)
 
 ## Author
 
-**Jeffrey Zhou (周志宇)**
+**Jeffrey Zhou**
 
 - 🎓 Music Education Researcher & AI Developer
 - 🔗 [Hugging Face Profile](https://huggingface.co/JeffreyZhou798)
