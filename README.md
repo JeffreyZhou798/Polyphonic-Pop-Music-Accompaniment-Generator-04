@@ -100,6 +100,28 @@ Later segments use progressively lower temperatures, making the AI more conserva
 
 **Result**: Earlier segments are more creative/experimental, later segments are more conservative/consistent.
 
+
+## License
+
+MIT License - See [LICENSE](../LICENSE) for details.
+
+---
+
+
+
+## ⚠️ Copyright Notice
+
+© 2026 Jeffrey Zhou. All rights reserved.
+
+This repository and its contents are protected by copyright law.  
+No part of this project may be copied, reproduced, modified, or distributed without prior written permission from the author.
+
+Commercial use is strictly prohibited.
+
+
+*Built with ❤️ for music education*
+
+
 ---
 
 ## 中文
@@ -332,4 +354,16 @@ MIT License - See [LICENSE](../LICENSE) for details.
 
 ---
 
-*Made with ❤️ for music educators and composers worldwide*
+
+
+## ⚠️ Copyright Notice
+
+© 2026 Jeffrey Zhou. All rights reserved.
+
+This repository and its contents are protected by copyright law.  
+No part of this project may be copied, reproduced, modified, or distributed without prior written permission from the author.
+
+Commercial use is strictly prohibited.
+
+
+*Built with ❤️ for music education*
