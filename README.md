@@ -1,12 +1,4 @@
----
-title: Polyphonic Pop Music Accompaniment Generator
-emoji: 🎵
-colorFrom: blue
-colorTo: purple
-sdk: docker
-pinned: false
-license: mit
----
+
 
 # 🎵 Polyphonic Pop Music Accompaniment Generator
 
@@ -100,6 +92,15 @@ Later segments use progressively lower temperatures, making the AI more conserva
 
 **Result**: Earlier segments are more creative/experimental, later segments are more conservative/consistent.
 
+---
+title: Polyphonic Pop Music Accompaniment Generator
+emoji: 🎵
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+license: mit
+---
 
 ## License
 
