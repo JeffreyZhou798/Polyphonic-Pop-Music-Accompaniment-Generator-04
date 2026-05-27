@@ -5,8 +5,8 @@
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 
-**👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04)**
- **👉 [ModelScope Version](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/summary)**
+**👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04) https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04**
+ **👉 [ModelScope Version](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/) https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/**
 
 ---
 
