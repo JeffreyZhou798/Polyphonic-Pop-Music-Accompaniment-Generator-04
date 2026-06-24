@@ -5,7 +5,7 @@
 [![ModelScope](https://img.shields.io/badge/ModelScope-Space-blue)](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 
-**👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04) https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04**
+
  **👉 [ModelScope Version](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/) https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/**
 
 ---
@@ -16,7 +16,7 @@
 
 An AI-powered **5-track polyphonic pop music accompaniment generator** with a user-friendly web interface. Upload your melody and get professional accompaniment instantly!
 
-**🚀 [Try on Hugging Face Spaces](https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04)** | **👉 [ModelScope Version](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/summary)**
+**🚀 👉 [ModelScope Version](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/)**
 
 ### Key Features
 
@@ -131,7 +131,7 @@ Commercial use is strictly prohibited.
 
 一款基于 AI 的**五轨道复调流行音乐伴奏生成器**，提供友好的网页界面。上传您的旋律，即可获得专业的伴奏！
 
-**🚀 [在线试用 (Hugging Face)](https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04)** | **👉 [ModelScope 版本](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/summary)**
+**🚀 👉 [ModelScope 版本](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/)**
 
 ### 核心功能
 
@@ -215,7 +215,7 @@ segment_seed = int(hashlib.md5(seed_str.encode()).hexdigest()[:8], 16) % 1000000
 
 AI搭載の**5トラック・ポリフォニーポップ音楽伴奏生成器**です。使いやすいWebインターフェースを提供。メロディをアップロードするだけで、プロフェッショナルな伴奏が瞬時に！
 
-**🚀 [Hugging Faceで試す](https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04)** | **👉 [ModelScope版](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/summary)**
+**🚀👉 [ModelScope版](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/)**
 
 ### 主な機能
 
@@ -346,8 +346,8 @@ Output (MIDI + MusicXML)
 **Jeffrey Zhou **
 
 - 🎓 Music Education Researcher & AI Developer
-- 🔗 [Hugging Face Profile](https://huggingface.co/JeffreyZhou798)
-- 🌐 [Try the Demo](https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04)
+- 🔗 [modelscope Profile](https://www.modelscope.cn/studios/JeffreyZhou2026)
+- 🌐 [Try the Demo](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/)
 
 ## License
 
