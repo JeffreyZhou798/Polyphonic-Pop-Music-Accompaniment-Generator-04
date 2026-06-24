@@ -2,7 +2,7 @@
 
 # 🎵 Polyphonic Pop Music Accompaniment Generator
 
-[![ModelScope](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/)](https://www.modelscope.cn/)
+[![ModelScope](https://img.shields.io/badge/ModelScope-Space-blue)](https://www.modelscope.cn/studios/JeffreyZhou2026/Polyphonic-Pop-Music-Accompaniment-Generator-02/))
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 
 **👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04) https://huggingface.co/spaces/JeffreyZhou798/Polyphonic-Pop-Music-Accompaniment-Generator-04**
